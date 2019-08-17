@@ -1,5 +1,5 @@
-## 电子商城
-本项目基于Laravel-china教程6《电商进阶》，在此基础上进行扩展开发
+## laravel5.8商城系统
+本项目基于Laravel-china教程6《电商进阶》，在此基础上进行扩展开发，支持小程序接口
 <br /><br />线上demo：https://shop.wuxxin.com
 ## 扩展内容
 1、用户模块
